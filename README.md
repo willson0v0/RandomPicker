@@ -1,1 +1,3 @@
 # RandomPicker
+it's just a small practice about java...just for fun...
+first time to use github...Exciting.
