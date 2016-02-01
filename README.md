@@ -1,1 +1,2 @@
-# RandomPicker
+# RandomPicker 1
+it's just a small practice about java...just for fun...
